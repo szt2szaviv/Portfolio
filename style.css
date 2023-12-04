@@ -1,9 +1,9 @@
 body{
     background-color: blueviolet !important;
+    font-family: 'Cabin', sans-serif !important;
 }
 
 #mainNavigation a {
-    font-family: 'Cabin', sans-serif;
     font-size:14px;
     text-transform:uppercase;
     letter-spacing:2px;
@@ -28,3 +28,7 @@ body{
     padding-bottom:120px;
     background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
   }
+
+#tartalom{
+    margin-top: 4%;
+}
